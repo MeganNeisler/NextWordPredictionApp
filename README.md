@@ -6,8 +6,8 @@ This app takes a phrase and outputs a prediction of up to 4 next probable words.
 ## Built With
 
 ## Relevant Links
-- [Presentation Overview] (https://rpubs.com/MNeisler/262373)
-- [Shiny App] (https://rpubs.com/MNeisler/262373_
+- [Presentation Overview](https://rpubs.com/MNeisler/262373)
+- [Shiny App](https://rpubs.com/MNeisler/262373)
 
 ## Acknowledgement
 
