@@ -26,5 +26,5 @@ This predication application takes a phrase and outputs a prediction of up to 4 
 * Megan Neisler
 
 ## Acknowledgement
-- [SwiftKey] (https://swiftkey.com/en) who provided the dataset for this project. 
+- [SwiftKey](https://swiftkey.com/en) who provided the dataset for this project. 
 - This was completed as part of the Capstone Project for the Johns Hopkins Data Science Specialization. Thanks to the professors and coursea for developing this project idea and their guidance along the way. 
