@@ -1,12 +1,12 @@
 # NextWordPredictionApp
-This predication application takes a phrase and outputs a prediction of up to 4 next probable words.  The resuts are generated automatically as the user types, quickly displaying and updating the results based on the provided input. This was completed for the capstone project of the Coursera Data Science specialization held by professors of the Johns Hopkins University and in cooperation with SwiftKey.
+This predication application takes a phrase and outputs a prediction of up to 4 next probable words.  The results are generated automatically as the user types, quickly displaying and updating the results based on the provided input. This was completed for the capstone project of the Coursera Data Science specialization held by professors of the Johns Hopkins University and in cooperation with SwiftKey.
 
 ## Application Fields
 * Inputs
   * Input text: User inputted sentence or phrase.
   * Number of predicted words: User selects the number of words they would like to predict.
   
-*Outputs
+* Outputs
   * Predicted Next Word(s): Displays next most likely words based on provided input.
   * Current Word Being Typed: Displays the most likely word being typed by the user.
   
@@ -15,7 +15,7 @@ This predication application takes a phrase and outputs a prediction of up to 4 
 
 ## Built With
 * [Shiny](https://shiny.rstudio.com/): An open source R package used to build interative web apps from R.
-* [RWeka] (https://cran.r-project.org/web/packages/RWeka/index.html): A collection of machine learning algorithms for data mining tasks
+* [RWeka](https://cran.r-project.org/web/packages/RWeka/index.html): A collection of machine learning algorithms for data mining tasks
 * Dataset: This text prediction model was built based on a sample dataset from a corpus, called the HC Corpra, consisting of real english news, blog and twitter feed text.
 
 ## Relevant Links
